@@ -1,5 +1,5 @@
 Dog
 Lion
-Deer
+PANDA
 Elephant
 Tiger
